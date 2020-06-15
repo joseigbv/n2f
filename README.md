@@ -2,7 +2,7 @@
 
 Multiplatform micro redirector between file and network for pentesting. 
 
-It can be useful in pentesting tasks when you can execute commands through webshell but you can't upload (or download) binary files. Thanks to its small size, it can be uploaded using a loader and any vulnerability (or micro webshell) that allows command execution
+It can be useful in pentesting tasks when you can execute commands through webshell but you can't upload (or download) binary files. Thanks to its small size, it can be uploaded using a loader and any vulnerability (or micro webshell) that allows command execution.
 
 ## Features
 
