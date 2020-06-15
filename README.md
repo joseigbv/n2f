@@ -8,7 +8,7 @@ It can be useful in pentesting tasks when you can execute commands through websh
 
 * Pentesting backdoor micro netcat for files transfer.
 * Compatible Windows, Linux, Solaris, OSX or BSD (any Unix?).
-* Small size. 
+* Small size for line to line upload. 
 * Simple, can be extended (E.g. encrypt)
 * Designed to be combined with other tools (E.g. rportfw)
 
