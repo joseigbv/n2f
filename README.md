@@ -2,11 +2,7 @@
 
 Multiplatform micro redirector between file and network for pentesting. 
 
-It can be useful in pentesting tasks when you can execute commands through webshell but you can't upload (or download) binary files. 
-
-Thanks to its small size, it can be uploaded using a loader and any vulnerability (or micro webshell) that allows command execution
-
-Can be combined with other tools such as 'rportfw'.
+It can be useful in pentesting tasks when you can execute commands through webshell but you can't upload (or download) binary files. Thanks to its small size, it can be uploaded using a loader and any vulnerability (or micro webshell) that allows command execution
 
 ## Features
 
@@ -14,7 +10,7 @@ Can be combined with other tools such as 'rportfw'.
 * Compatible Windows, Linux, Solaris, OSX or BSD (any Unix?).
 * Small size. 
 * Simple, can be extended (E.g. encrypt)
-* Designed to be combined with other tools
+* Designed to be combined with other tools (E.g. rportfw)
 
 ## Getting Started
 
